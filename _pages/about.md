@@ -19,17 +19,17 @@ redirect_from:
 
 # About Me
 
-I am a Research Resident under the supervision of [Prof. Viet Anh Nguyen](https://vietanhnguyen.net) at [VinAI Research](https://www.vinai.io), Vietnam. I received a bachelor degree in computer science from Hanoi University of Science and Technology in 2022.
+Hello, I'm Bao, a research assistant under the supervision of [Prof. Viet Anh Nguyen](https://vietanhnguyen.net) at [VinUniversity](https://vinuni.edu.vn/). I'm going to pursue my Ph.D. degree in [The Department of Systems Engineering and Engineering Management](https://www.se.cuhk.edu.hk/) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html) in September 2024. I received a bachelor's degree in computer science from Hanoi University of Science and Technology in 2023.
 
-My research interests lie on the intersection of model interpretability and robustness in machine learning. Lately, I have been focusing on algorithmic recourse and applications of graph neural networks.
+My research interests lie in the intersection of optimization, generative models, and machine learning. Besides, I also have experience in reinforcement learning, model interpretability and robustness in machine learning. Lately, I have been focusing on optimal transport, diffusion/flow matching models, and their applications to image generation.
 
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔥 News
 
-- *January 2023*: Our paper [Distributionally Robust Recourse Action](https://openreview.net/forum?id=E3ip6qBLF7) is accepted to ICLR 2023!
-- *January 2023*: Our paper [Feasible Recourse Plan via Diverse Interpolation](https://arxiv.org/abs/2302.11213) is accepted to AISTATS 2023!
+- *January 2024*: Our paper [Bellman Optimal Step-size Straightening of Flow-Matching Models](https://arxiv.org/abs/2312.16414) is accepted to ICLR 2024!
+- *June 2023*: Our paper [Efficient Failure Pattern Identification of Predictive Algorithms](https://arxiv.org/abs/2306.00760) is accepted to UAI 2023!
 
 <details>
   <summary>Old news in 2022</summary>
@@ -125,25 +125,97 @@ The Tenth International Conference on Learning Representations (ICLR), 2022. \\
 </div>
 </div> 
 
-# 🎖 Honors and Awards
-- *October 2022*: Honorable Mention - INFORMS Undergraduate Operations Research Prize
-- *October 2022*: Best Thesis Presentation Award - Hanoi University of Science and Technology
-- *September 2019*: Excellence Scholarship for the academic year - Hanoi University of Science and Technology
+# 🎓 Education
+- *Sep 2019 - Sep 2023*: Bachelor in Computer Science (Talented Programme)
+  - Hanoi University of Science and Technology, Hanoi, Vietnam
+  - GPA: 3.85/4.00
 
-<!-- # 💬 Invited Talks
-- *2022.11*, Inter-Experimental LHC Machine Learning Working Group, CERN
-- *2022.10*, Department of Physics, Purdue University
-- *2022.08*, AI Time
-- *2022.07*, Fast Machine Learning Lab
--->
+- *Sep 2016 - Sep 2019*: High School Diploma
+  - Van Giang High School, Van Giang, Hung Yen, Vietnam
+  - GPA: 9.0/10.0
 
-<!-- # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+# 💼 Work Experience
+- *April 2022 - Present*: Research Assistant
+  - VinUniversity, Hanoi, Vietnam
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+- *Jul 2022 - Apr 2023*: Research Assistant
+  - Hanoi University of Science and Technology, Hanoi, Vietnam
 
-# 💻 Experience
-- *August 2021 - Present*: Research Resident at VinAI Research, Vietnam
+# 📄 Publications
+- *International Conference on Learning Representations (ICLR), 2024*:
+  - **Bellman Optimal Step-size Straightening of Flow-Matching Models**
+
+- *Conference on Uncertainty in Artificial Intelligence (UAI), 2023*:
+  - **Efficient Failure Pattern Identification of Predictive Algorithms**
+
+- *Nonlinear Theory and Its Applications Journal, IEICE, 2023*:
+  - **Q-learning-based distributed multi-charging algorithm for large-scale WRSNs**
+
+- *Proceedings of the Genetic and Evolutionary Computation Conference Companion (GECCO), 2022*:
+  - **Dynamic perturbation for population diversity management in differential evolution**
+
+- *IEEE Congress on Evolutionary Computation (CEC), 2021*:
+  - **Effective partial charging scheme for minimizing the energy depletion and charging cost in wireless rechargeable sensor networks**
+
+# 🚀 Projects
+- *Generative AI Technologies for Gynecological Healthcare in Vietnam*:
+  - [Link](https://gcgh.grandchallenges.org/grant/generative-ai-technologies-gynecological-healthcare-vietnam)
+
+- *Bot game MarioBros based on imitation learning and reinforcement learning*:
+  - [Github](https://github.com/nguyenngocbaocmt02/Bot-game-MarioBros-based-on-inmitation-learning-and-reinforcement-learning)
+
+- *Stock Price Prediction for Vietnamese stock market*:
+  - [Github](https://github.com/nguyenngocbaocmt02/VietnameseStockMarketAnalysis)
+
+# 🏆 Awards & Achievements
+- *Sep 2023*: Top 13 out of 216 in the Vietnam Winter Alphathon 2023
+  - WorldQuant Brain, Hanoi, Vietnam
+
+- *Sep 2023*: The third place in the Face Analysis Challenge
+  - PIXTA Vietnam, Cohost AI và Viblo, Hanoi, Vietnam
+
+- *Jul 2023*: Runners-up in NESTQUANT Tournament
+  - NestQuant Incorporation, Hanoi, Vietnam
+
+- *Jun 2023*: UAI conference scholarship
+  - Association for Uncertainty in Artificial Intelligence, Carnegie Mellon University, Pittsburgh, PA, USA
+
+- *Apr 2023*: Top 1\% International Quant Championship 2023
+  - WorldQuant Brain, Hanoi, Vietnam
+
+- *Jul 2021, Jan 2022, Jun 2022, Jan 2023*: Study encouragement scholarship
+  - Hanoi University of Science and Technology, Hanoi, Vietnam
+
+- *Jun 2022*: Scholarship from Lotte Corporation
+  - Lotte Corporation, Hanoi, Vietnam
+
+- *Aug 2021, Jun 2022*: The $4^{th}$ prize of Competition Single Objective Bound Constrained Optimization
+  - Association for Computing Machinery Special Interest Group (SIGEVO), New York, US
+
+- *Jun 2021*: Scholarship from Vietnam Gas Corporation
+  - Vietnam Gas Corporation, Hanoi, Vietnam
+
+- *Sep 2019*: Top 5 students with the highest scores in the National University Entrance Exam
+  - Vietnam Ministry of Education, Hanoi, Vietnam
+
+- *Jan 2017*: The Silver Medal of Mathematics National Exam
+  - Vietnam Ministry of Education, Vietnam
+
+- *Jan 2017*: The $3^{th}$ place in the Science and Technology National Contest
+  - Vietnam Ministry of Education, Vietnam
+
+# 📜 Licenses & Certifications
+- *Issued Nov 2023 · Expires Nov 2025*: IELTS Academic 7.0 (All skills are above 6.0)
+  - British Council, Hanoi, Vietnam
+
+- *Issued Sep 2023 · Expires Sep 2025*: TOEIC 900
+  - IIG Vietnam, Hanoi, Vietnam
+
+# 💻 Skills
+- **Programming:** Python, C, C++, Java, MATLAB, SQL
+- **Technologies:** Pytorch, TensorFlow, Git, Docker, SSH, Spark, Hadoop
+- **Languages:** Vietnamese (Native), English (Intermediate)
+
+# 🛠 Professional Services
+- *NEURIPS(2023), ICLR(2024)*: Reviewer
+
