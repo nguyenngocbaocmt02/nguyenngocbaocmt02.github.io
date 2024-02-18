@@ -73,7 +73,7 @@ The International Conference on Learning Representations (ICLR), 2024. \\
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UAI 2023</div><img src='images/fpd.png' alt="sym" style="max-width: 300px; max-height: 225px;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UAI 2023</div><img src='images/fpd.png' alt="sym" style="width: 300px; max-height: 225px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Efficient Failure Pattern Identification of Predictive Algorithms](https://arxiv.org/abs/2306.00760) \\
@@ -88,29 +88,20 @@ The Conference on Uncertainty in Artificial Intelligence (UAI), 2023. \\
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UAI 2022</div><img src='images/rbr.png' alt="sym" width="100%"></div></div>    
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UAI 2023</div><img src='images/fpd.png' alt="sym" style="width: 300px; max-height: 225px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Robust Bayesian Recourse](https://openreview.net/forum?id=BqIM6SIoqgq) \\
-Tuan-Duy H. Nguyen, Ngoc Bui, **Duy Nguyen**, Man-Chung Yue, and Viet Anh Nguyen. \\
-The 38th Conference on Uncertainty in Artificial Intelligence (UAI), 2022. \\
-<a href="https://openreview.net/forum?id=BqIM6SIoqgq"><img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=UAI 2022&color=blue"></a>
-<a href="https://arxiv.org/abs/2206.10833"><img src="https://img.shields.io/badge/-Paper-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
-<a href="https://github.com/VinAIResearch/robust-bayesian-recourse"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
-</div>
-</div>
+[Efficient Failure Pattern Identification of Predictive Algorithms](https://arxiv.org/abs/2306.00760) \\
+**Bao Nguyen**, Viet Anh Nguyen. \\
+The Conference on Uncertainty in Artificial Intelligence (UAI), 2023. \\
+<a href="https://openreview.net/forum?id=DBs6SA_fKb"><img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=UAI 2023&color=blue"></a>
+<a href="https://arxiv.org/abs/2306.00760"><img src="https://img.shields.io/badge/-Paper-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
+<a href="https://github.com/nguyenngocbaocmt02/FPD"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
+<!-- <a href="https://colab.research.google.com/drive/1t0_4BxEJ0XncyYvn_VyEQhxwNMvtSUNx?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab"></a> -->
+<a href="https://proceedings.mlr.press/v216/nguyen23c/nguyen23c.pdf"> <img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=UAI%2723&color=blue"> </a>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2022</div><img src='images/copa.png' alt="sym" width="100%"></div></div>     
-<div class='paper-box-text' markdown="1">
-
-[Counterfactual Plans under Distributional Ambiguity](https://openreview.net/forum?id=noaG7SrPVK0) \\
-Ngoc Bui, **Duy Nguyen**, and Viet Anh Nguyen. \\
-The Tenth International Conference on Learning Representations (ICLR), 2022. \\
-<a href="https://openreview.net/forum?id=noaG7SrPVK0"><img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=ICLR 2022&color=blue"></a>
-<a href="https://arxiv.org/abs/2201.12487"><img src="https://img.shields.io/badge/-Paper-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
-<a href="https://github.com/ngocbh/COPA"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a> 
 </div>
-</div> 
+</div>
 
 # 🎓 Education
 - *Sep 2019 - Sep 2023*: Bachelor in Computer Science (Talented Programme)
