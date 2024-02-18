@@ -32,7 +32,7 @@ My research interests center on the intersection of optimization, generative mod
 - *January 2024*: Our paper [Bellman Optimal Step-size Straightening of Flow-Matching Models](https://arxiv.org/abs/2312.16414) is accepted to ICLR 2024!
 - *June 2023*: Our paper [Efficient Failure Pattern Identification of Predictive Algorithms](https://arxiv.org/abs/2306.00760) is accepted to UAI 2023!
 
-# 📝 Notable Publications
+# 📝 Selected Publications
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
