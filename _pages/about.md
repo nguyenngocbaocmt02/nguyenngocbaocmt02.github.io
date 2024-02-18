@@ -88,6 +88,18 @@ The Conference on Uncertainty in Artificial Intelligence (UAI), 2023. \\
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NOLTA</div><img src='images/fpd.png' alt="sym" style="width: 300px; max-height: 300px;"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Q-learning-based distributed multi-charging algorithm for large-scale WRSNs](https://www.researchgate.net/publication/366775648_Q-learning-based_distributed_multi-charging_algorithm_for_large-scale_WRSNs) \\
+**Bao Nguyen**, Viet Anh Nguyen. \\
+Nonlinear Theory and Its Applications Journal, IEICE, 2023. \\
+<a href="https://www.researchgate.net/publication/366775648_Q-learning-based_distributed_multi-charging_algorithm_for_large-scale_WRSNs"><img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=NOLTA&color=blue"></a>
+<a href="https://doi.org/10.1587/nolta.14.18"><img src="https://img.shields.io/badge/-Paper-grey?logo=gitbook&logoColor=white" alt="Journal"></a>
+
+</div>
+</div>
+
 # 🎓 Education
 - *Sep 2019 - Sep 2023*: Bachelor in Computer Science (Talented Programme)
   - Hanoi University of Science and Technology, Hanoi, Vietnam
