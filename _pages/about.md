@@ -57,7 +57,7 @@ My research interests center on the intersection of optimization, generative mod
 </div>
 </div> -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/boss.png' alt="sym" width="75%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/boss.png' alt="sym" style="width: 200px; height: 150px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Bellman Optimal Step-size Straightening of Flow-Matching Models](https://arxiv.org/abs/2312.16414) \\
@@ -73,7 +73,7 @@ The International Conference on Learning Representations (ICLR), 2024. \\
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UAI 2023</div><img src='images/fpd.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UAI 2023</div><img src='images/fpd.png' alt="sym" style="width: 200px; height: 150px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Efficient Failure Pattern Identification of Predictive Algorithms](https://arxiv.org/abs/2306.00760) \\
