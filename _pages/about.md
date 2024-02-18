@@ -57,15 +57,15 @@ My research interests center on the intersection of optimization, generative mod
 </div>
 </div> -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2023</div><img src='images/dirrac.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2023</div><img src='images/boss.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Bellman Optimal Step-size Straightening of Flow-Matching Models](https://arxiv.org/abs/2312.16414) \\
 **Bao Nguyen**, Binh Nguyen, Viet Anh Nguyen. \\
 The International Conference on Learning Representations (ICLR), 2024. \\
-<a href="https://openreview.net/forum?id=E3ip6qBLF7"><img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=ICLR 2024&color=blue"></a>
-<a href="https://arxiv.org/abs/2302.11211"><img src="https://img.shields.io/badge/-Paper-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
-<a href="https://github.com/duykhuongnguyen/DiRRAc"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
+<a href="https://openreview.net/forum?id=Iyve2ycvGZ"><img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=ICLR 2024&color=blue"></a>
+<a href="https://arxiv.org/abs/2312.16414"><img src="https://img.shields.io/badge/-Paper-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
+<a href="https://github.com/nguyenngocbaocmt02/BOSS"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
 <!-- <a href="https://colab.research.google.com/drive/1t0_4BxEJ0XncyYvn_VyEQhxwNMvtSUNx?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab"></a> -->
 <!-- <a href="https://proceedings.mlr.press/v162/miao22a.html"> <img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=ICML%2722&color=blue"> </a> -->
 
