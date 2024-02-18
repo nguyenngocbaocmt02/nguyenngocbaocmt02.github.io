@@ -174,8 +174,6 @@ If you encounter any technical or implementation errors in our papers or codes, 
 
 - Stock Price Prediction for the Vietnamese stock market. [Github](https://github.com/nguyenngocbaocmt02/VietnameseStockMarketAnalysis)
 
-Certainly, here's the revised list with the format you provided:
-
 # 🏆 Scholarships
 - *Jul 2021, Jan 2022, Jun 2022, Jan 2023*: Study encouragement scholarship, awarded by Hanoi University of Science and Technology, Hanoi, Vietnam
 - *Jun 2022*: Scholarship from Lotte Corporation, awarded by Lotte Corporation, Hanoi, Vietnam
