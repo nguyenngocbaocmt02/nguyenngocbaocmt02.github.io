@@ -209,5 +209,5 @@ The Optimization Competition at Genetic and Evolutionary Computation Conference 
 - Reviewer for conferences: *NeurIPS 2023*, *ICLR 2024*.
   
 # References
-- [Prof. Viet Anh Nguyen](https://vietanhnguyen.net)
 - [Prof. Huynh Thi Thanh Binh](https://users.soict.hust.edu.vn/binhht/)
+- [Prof. Viet Anh Nguyen](https://vietanhnguyen.net)
