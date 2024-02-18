@@ -176,16 +176,18 @@ If you encounter any technical or implementation errors in our papers or codes, 
 
 Certainly, here's the revised list with the format you provided:
 
-# 🏆 Awards & Achievements
+# 🏆 Scholarships
+- *Jul 2021, Jan 2022, Jun 2022, Jan 2023*: Study encouragement scholarship, awarded by Hanoi University of Science and Technology, Hanoi, Vietnam
+- *Jun 2022*: Scholarship from Lotte Corporation, awarded by Lotte Corporation, Hanoi, Vietnam
+- *Jun 2021*: Scholarship from Vietnam Gas Corporation, awarded by Vietnam Gas Corporation, Hanoi, Vietnam
+
+# 🏆 Competitions
 - *Sep 2023*: Top 13 out of 216 in the Vietnam Winter Alphathon 2023, issued by WorldQuant Brain, Hanoi, Vietnam
 - *Sep 2023*: The third place in the Face Analysis Challenge, organized by PIXTA Vietnam, Cohost AI, and Viblo, Hanoi, Vietnam
 - *Jul 2023*: Runners-up in NESTQUANT Tournament, organized by NestQuant Incorporation, Hanoi, Vietnam
 - *Jun 2023*: UAI conference scholarship, awarded by the Association for Uncertainty in Artificial Intelligence, held at Carnegie Mellon University, Pittsburgh, PA, USA
 - *Apr 2023*: Top 1% International Quant Championship 2023, organized by WorldQuant Brain, Hanoi, Vietnam
-- *Jul 2021, Jan 2022, Jun 2022, Jan 2023*: Study encouragement scholarship, awarded by Hanoi University of Science and Technology, Hanoi, Vietnam
-- *Jun 2022*: Scholarship from Lotte Corporation, awarded by Lotte Corporation, Hanoi, Vietnam
 - *Aug 2021, Jun 2022*: The $4^{th}$ prize of Competition Single Objective Bound Constrained Optimization, organized by Association for Computing Machinery Special Interest Group (SIGEVO), New York, US
-- *Jun 2021*: Scholarship from Vietnam Gas Corporation, awarded by Vietnam Gas Corporation, Hanoi, Vietnam
 - *Sep 2019*: Top 5 students with the highest scores in the National University Entrance Exam, awarded by Vietnam Ministry of Education, Hanoi, Vietnam
 - *Jan 2017*: The Silver Medal of Mathematics National Exam, awarded by Vietnam Ministry of Education, Vietnam
 - *Jan 2017*: The $3^{th}$ place in the Science and Technology National Contest, awarded by Vietnam Ministry of Education, Vietnam
