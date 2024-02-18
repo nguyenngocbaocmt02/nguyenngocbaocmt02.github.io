@@ -31,7 +31,7 @@ My research interests center on the intersection of optimization, generative mod
 - *January 2024*: Our paper [Bellman Optimal Step-size Straightening of Flow-Matching Models](https://arxiv.org/abs/2312.16414) is accepted to ICLR 2024!
 - *June 2023*: Our paper [Efficient Failure Pattern Identification of Predictive Algorithms](https://arxiv.org/abs/2306.00760) is accepted to UAI 2023!
 
-# 📝 Publications
+# 📝 Notable Publications
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -129,10 +129,6 @@ The Optimization Competition at Genetic and Evolutionary Computation Conference 
   - Hanoi University of Science and Technology, Hanoi, Vietnam
   - GPA: 3.85/4.00
 
-- *Sep 2016 - Sep 2019*: High School Diploma
-  - Van Giang High School, Van Giang, Hung Yen, Vietnam
-  - GPA: 9.0/10.0
-
 # 💼 Work Experience
 - *April 2022 - Present*: Research Assistant
   - VinUniversity, Hanoi, Vietnam
@@ -141,20 +137,35 @@ The Optimization Competition at Genetic and Evolutionary Computation Conference 
   - Hanoi University of Science and Technology, Hanoi, Vietnam
 
 # 📄 Publications
-- *International Conference on Learning Representations (ICLR), 2024*:
-  - **Bellman Optimal Step-size Straightening of Flow-Matching Models**
+## Journal Publications
 
-- *Conference on Uncertainty in Artificial Intelligence (UAI), 2023*:
-  - **Efficient Failure Pattern Identification of Predictive Algorithms**
+- Nguyen Thanh Long, Tran Thi Huong, **Nguyen Ngoc Bao**, Huynh Thi Thanh Binh, Phi Le Nguyen, and Kien Nguyen. [Q-learning-based distributed multi-charging algorithm for large-scale WRSNs](https://www.researchgate.net/publication/366775648_Q-learning-based_distributed_multi-charging_algorithm_for_large-scale_WRSNs), *Nonlinear Theory and Its Applications Journal, IEICE, 2023*. [[Paper]](https://www.researchgate.net/publication/366775648_Q-learning-based_distributed_multi-charging_algorithm_for_large-scale_WRSNs)
 
-- *Nonlinear Theory and Its Applications Journal, IEICE, 2023*:
-  - **Q-learning-based distributed multi-charging algorithm for large-scale WRSNs**
+## Conference Publications
 
-- *Proceedings of the Genetic and Evolutionary Computation Conference Companion (GECCO), 2022*:
-  - **Dynamic perturbation for population diversity management in differential evolution**
+- **Bao Nguyen**, Binh Nguyen, Viet Anh Nguyen. [Bellman Optimal Step-size Straightening of Flow-Matching Models](https://arxiv.org/abs/2312.16414), *ICLR, 2024*. [[Paper]](https://arxiv.org/abs/2312.16414) [[GitHub]](https://github.com/nguyenngocbaocmt02/BOSS)
 
-- *IEEE Congress on Evolutionary Computation (CEC), 2021*:
-  - **Effective partial charging scheme for minimizing the energy depletion and charging cost in wireless rechargeable sensor networks**
+- **Bao Nguyen**, Viet Anh Nguyen. [Efficient Failure Pattern Identification of Predictive Algorithms](https://arxiv.org/abs/2306.00760), *UAI, 2023*. [[Paper]](https://arxiv.org/abs/2306.00760) [[GitHub]](https://github.com/nguyenngocbaocmt02/FPD)
+
+- Le Van Cuong, **Nguyen Ngoc Bao**, Phuong Khanh Nguyen, Huynh Thi Thanh Binh. [Dynamic perturbation for population diversity management in differential evolution](https://www.researchgate.net/publication/362114322_Dynamic_perturbation_for_population_diversity_management_in_differential_evolution), *GECCO, 2022*. [[Paper]](https://www.researchgate.net/publication/362114322_Dynamic_perturbation_for_population_diversity_management_in_differential_evolution) [[GitHub]](https://github.com/nguyenngocbaocmt02/S-LSHADE-DP-GECCO2022-)
+
+- Le Van Cuong, **Nguyen Ngoc Bao**, Huynh Thi Thanh Binh. [Technical report: A Multi-start Local Search Algorithm with L-SHADE for Single Objective Bound Constrained Optimization](https://www.researchgate.net/publication/372752118_Technical_report_A_Multi-start_Local_Search_Algorithm_with_L-SHADE_for_Single_Objective_Bound_Constrained_Optimization), *GECCO, 2022*. [[Paper]](https://www.researchgate.net/publication/372752118_Technical_report_A_Multi-start_Local_Search_Algorithm_with_L-SHADE_for_Single_Objective_Bound_Constrained_Optimization) [[GitHub]](https://github.com/nguyenngocbaocmt02/MS-LSHADE-GECCO2021-)
+
+- Tran Thi Huong, **Nguyen Ngoc Bao**, Ngo Minh Hai, Huynh Thi Thanh Binh. [Effective partial charging scheme for minimizing the energy depletion and charging cost in wireless rechargeable sensor networks](https://ieeexplore.ieee.org/document/9504948/), *IEEE Congress on Evolutionary Computation (CEC), 2021**. 
+
+# Preprints
+- **Bao Nguyen**, Binh Nguyen, Hieu Trung Nguyen, Viet Anh Nguyen. Generative Conditional Distributions by Neural (Entropic) Optimal Transport. *Under Review*.
+
+- Duy Nguyen, **Bao Nguyen** and Viet Anh Nguyen. Cost Adaptive Recourse Recommendation by Adaptive Preference Elicitation. *Under Review*.
+
+- Hue Thi Tran, **Bao Nguyen**, Nguyen Tran Nhat Quoc, Pham Phu Manh, Nguyen Khanh Phuong, Huynh Thi Thanh Binh, Dang Quang Thang. The Vehicle Routing Problem with Drones and Flexibility Demands. *Under Review*.
+
+- **Bao Nguyen**, Tran Thi Huong, Huynh Thi Thanh Binh, Le Trong Vinh. [Asynchronous multi-agent reinforcement learning-based general charging scheme for connected target coverage maximization. *Under Review*.
+
+- Tran Thi Huong, **Bao Nguyen**, Vo Khac Hiep, Le Trong Vinh, Huynh Thi Thanh Binh. Adaptive periodic charging scheme using hybrid fuzzy state-based reinforcement learning in WRSNs. *Under Review*.
+
+If you find any technical/implementation error in our papers/codes, please report by sending me an email. Thank you!
+
 
 # 🚀 Projects
 - *Generative AI Technologies for Gynecological Healthcare in Vietnam*:
