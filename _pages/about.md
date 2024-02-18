@@ -207,6 +207,9 @@ The Optimization Competition at Genetic and Evolutionary Computation Conference 
 
 # 🛠 Professional Services
 - Reviewer for conferences: *NeurIPS 2023*, *ICLR 2024*.
+
+# Latest CV
+- CV updated to 18/2/2024: [Link](https://drive.google.com/file/d/1nrxHNrnLWZC3sD8CTrYH6RnC46YobPSu/view?usp=sharing)
   
 # References
 - [Prof. Huynh Thi Thanh Binh](https://users.soict.hust.edu.vn/binhht/)
