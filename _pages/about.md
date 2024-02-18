@@ -180,7 +180,7 @@ If you encounter any technical or implementation errors in our papers or codes, 
 - *Jun 2022*: Scholarship from Lotte Corporation, awarded by Lotte Corporation, Hanoi, Vietnam
 - *Jun 2021*: Scholarship from Vietnam Gas Corporation, awarded by Vietnam Gas Corporation, Hanoi, Vietnam
 
-# 🏆 Competitions
+# 🏅 Competitions
 - *Sep 2023*: Top 13 out of 216 in the Vietnam Winter Alphathon 2023, issued by WorldQuant Brain, Hanoi, Vietnam
 - *Sep 2023*: The third place in the Face Analysis Challenge, organized by PIXTA Vietnam, Cohost AI, and Viblo, Hanoi, Vietnam
 - *Jul 2023*: Runners-up in NESTQUANT Tournament, organized by NestQuant Incorporation, Hanoi, Vietnam
@@ -189,7 +189,7 @@ If you encounter any technical or implementation errors in our papers or codes, 
 - *Aug 2021, Jun 2022*: The $4^{th}$ prize of Competition Single Objective Bound Constrained Optimization, organized by Association for Computing Machinery Special Interest Group (SIGEVO), New York, US
 - *Sep 2019*: Top 5 students with the highest scores in the National University Entrance Exam, awarded by Vietnam Ministry of Education, Hanoi, Vietnam
 - *Jan 2017*: The Silver Medal of Mathematics National Exam, awarded by Vietnam Ministry of Education, Vietnam
-- *Jan 2017*: The $3^{th}$ place in the Science and Technology National Contest, awarded by Vietnam Ministry of Education, Vietnam
+- *Jan 2017*: The $3^{th}$ place in the Science and Technology National Contest, awarded by the Vietnam Ministry of Education, Vietnam
 
 # 💻 Skills
 - **Programming:** Python, C, C++, Java, MATLAB, SQL
