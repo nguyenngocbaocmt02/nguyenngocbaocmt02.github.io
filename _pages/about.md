@@ -100,6 +100,18 @@ Nonlinear Theory and Its Applications Journal, IEICE, 2023. \\
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GECCO</div><img src='images/de.png' alt="sym" style="width: 300px; max-height: 300px;"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Dynamic perturbation for population diversity management in differential evolution](https://www.researchgate.net/publication/362114322_Dynamic_perturbation_for_population_diversity_management_in_differential_evolution) \\
+Le Van Cuong, **Nguyen Ngoc Bao**, Phuong Khanh Nguyen, Huynh Thi Thanh Binh\\
+Genetic and Evolutionary Computation Conference (GECCO), 2022. \\
+<a href="https://www.researchgate.net/publication/362114322_Dynamic_perturbation_for_population_diversity_management_in_differential_evolution"><img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=GECCO&color=blue"></a>
+<a href="https://doi.org/10.1145/3520304.3529075"><img src="https://img.shields.io/badge/-Paper-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
+
+</div>
+</div>
+
 # 🎓 Education
 - *Sep 2019 - Sep 2023*: Bachelor in Computer Science (Talented Programme)
   - Hanoi University of Science and Technology, Hanoi, Vietnam
