@@ -137,7 +137,6 @@ The Optimization Competition at Genetic and Evolutionary Computation Conference 
   - Hanoi University of Science and Technology, Hanoi, Vietnam
 
 # 📰 Publications
-
   ## Journal Publications
 
 - Nguyen Thanh Long, Tran Thi Huong, **Nguyen Ngoc Bao**, Huynh Thi Thanh Binh, Phi Le Nguyen, and Kien Nguyen. [Q-learning-based distributed multi-charging algorithm for large-scale WRSNs](https://doi.org/10.1587/nolta.14.18), *Nonlinear Theory and Its Applications Journal, IEICE, 2023*. [[Paper]](https://www.researchgate.net/publication/366775648_Q-learning-based_distributed_multi-charging_algorithm_for_large-scale_WRSNs)
