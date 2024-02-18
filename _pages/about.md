@@ -136,12 +136,13 @@ The Optimization Competition at Genetic and Evolutionary Computation Conference 
 - *Jul 2022 - Apr 2023*: Research Assistant
   - Hanoi University of Science and Technology, Hanoi, Vietnam
 
-# 📄 Publications
-## Journal Publications
+# 📰 Publications
+
+  ## Journal Publications
 
 - Nguyen Thanh Long, Tran Thi Huong, **Nguyen Ngoc Bao**, Huynh Thi Thanh Binh, Phi Le Nguyen, and Kien Nguyen. [Q-learning-based distributed multi-charging algorithm for large-scale WRSNs](https://doi.org/10.1587/nolta.14.18), *Nonlinear Theory and Its Applications Journal, IEICE, 2023*. [[Paper]](https://www.researchgate.net/publication/366775648_Q-learning-based_distributed_multi-charging_algorithm_for_large-scale_WRSNs)
 
-## Conference Publications
+  ## Conference Publications
 
 - **Bao Nguyen**, Binh Nguyen, Viet Anh Nguyen. [Bellman Optimal Step-size Straightening of Flow-Matching Models](https://arxiv.org/abs/2312.16414), *ICLR, 2024*. [[GitHub]](https://github.com/nguyenngocbaocmt02/BOSS)
 
