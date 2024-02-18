@@ -210,4 +210,4 @@ The Optimization Competition at Genetic and Evolutionary Computation Conference 
   
 # References
 - [Prof. Viet Anh Nguyen](https://vietanhnguyen.net)
-
+- [Prof. Huynh Thi Thanh Binh](https://users.soict.hust.edu.vn/binhht/)
