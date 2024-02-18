@@ -21,7 +21,7 @@ redirect_from:
 
 Hello, I'm Bao, a research assistant under the supervision of [Prof. Viet Anh Nguyen](https://vietanhnguyen.net) at [VinUniversity](https://vinuni.edu.vn/). I'm going to pursue my Ph.D. degree in [The Department of Systems Engineering and Engineering Management](https://www.se.cuhk.edu.hk/) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html) in September 2024. I received a bachelor's degree in computer science from Hanoi University of Science and Technology in 2023.
 
-My research interests lie in the intersection of optimization, generative models, and machine learning. Besides, I also have experience in reinforcement learning, model interpretability and robustness in machine learning. Lately, I have been focusing on optimal transport, diffusion/flow matching models, and their applications to image generation.
+My research interests center on the intersection of optimization, generative models, and machine learning. Additionally, I have experience in reinforcement learning, model interpretability, and robustness in machine learning. Recently, I've been focusing on optimal transport, diffusion/flow matching models, and their applications to image generation.
 
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
@@ -30,21 +30,6 @@ My research interests lie in the intersection of optimization, generative models
 
 - *January 2024*: Our paper [Bellman Optimal Step-size Straightening of Flow-Matching Models](https://arxiv.org/abs/2312.16414) is accepted to ICLR 2024!
 - *June 2023*: Our paper [Efficient Failure Pattern Identification of Predictive Algorithms](https://arxiv.org/abs/2306.00760) is accepted to UAI 2023!
-
-<details>
-  <summary>Old news in 2022</summary>
-
-  <div markdown="1">
-  - *October 2022*: We are awarded an honorable mention at 2022 INFORMS Undergraduate Operations Research Prize!
-  - *May 2022*: One paper accepted to UAI 2022!
-  - *January 2022*: One paper accepted to ICLR 2022!
-  </div>
-
-</details>
-
-
-
-
 
 # 📝 Publications
 
@@ -75,10 +60,10 @@ My research interests lie in the intersection of optimization, generative models
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2023</div><img src='images/dirrac.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Distributionally Robust Recourse Action](https://openreview.net/forum?id=E3ip6qBLF7) \\
-**Duy Nguyen**, Ngoc Bui, and Viet Anh Nguyen. \\
-The Eleventh International Conference on Learning Representations (ICLR), 2023. \\
-<a href="https://openreview.net/forum?id=E3ip6qBLF7"><img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=ICLR 2023&color=blue"></a>
+[Bellman Optimal Step-size Straightening of Flow-Matching Models](https://arxiv.org/abs/2312.16414) \\
+**Bao Nguyen**, Binh Nguyen, Viet Anh Nguyen. \\
+The International Conference on Learning Representations (ICLR), 2024. \\
+<a href="https://openreview.net/forum?id=E3ip6qBLF7"><img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=ICLR 2024&color=blue"></a>
 <a href="https://arxiv.org/abs/2302.11211"><img src="https://img.shields.io/badge/-Paper-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
 <a href="https://github.com/duykhuongnguyen/DiRRAc"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
 <!-- <a href="https://colab.research.google.com/drive/1t0_4BxEJ0XncyYvn_VyEQhxwNMvtSUNx?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab"></a> -->
@@ -91,8 +76,8 @@ The Eleventh International Conference on Learning Representations (ICLR), 2023. 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AISTATS 2023</div><img src='images/frpd.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Feasible Recourse Plan via Diverse Interpolation](https://arxiv.org/abs/2302.11213) \\
-**Duy Nguyen**, Ngoc Bui, and Viet Anh Nguyen. \\
+[Bellman Optimal Step-size Straightening of Flow-Matching Models](https://arxiv.org/abs/2312.16414) \\
+**Bao Nguyen**, Binh Nguyen, Viet Anh Nguyen. \\
 The 26th International Conference on Artificial Intelligence and Statistics (AISTATS), 2023. \\
 <a href="https://arxiv.org/abs/2302.11213"><img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=AISTATS 2023&color=blue"></a> 
 <a href="https://arxiv.org/abs/2302.11213"><img src="https://img.shields.io/badge/-Paper-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
