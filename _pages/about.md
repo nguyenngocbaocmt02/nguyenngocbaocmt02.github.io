@@ -144,6 +144,8 @@ The Optimization Competition at Genetic and Evolutionary Computation Conference 
 
 - Tran Thi Huong, **Nguyen Ngoc Bao**, Ngo Minh Hai, Huynh Thi Thanh Binh. [Effective partial charging scheme for minimizing the energy depletion and charging cost in wireless rechargeable sensor networks](https://ieeexplore.ieee.org/document/9504948/), *IEEE Congress on Evolutionary Computation (CEC), 2021*. [[Paper]](https://www.researchgate.net/publication/353782930_Effective_Partial_Charging_Scheme_For_Minimizing_The_Energy_Depletion_And_Charging_Cost_In_Wireless_Rechargeable_Sensor_Networks)
 
+<span style="color:red">If you encounter any technical or implementation errors in our papers or codes, please report them by sending me an email. Thank you!</span>
+
 # 📄 Preprints
 - **Bao Nguyen**, Binh Nguyen, Hieu Trung Nguyen, Viet Anh Nguyen. Generative Conditional Distributions by Neural (Entropic) Optimal Transport. *Under Review*.
 
@@ -154,8 +156,6 @@ The Optimization Competition at Genetic and Evolutionary Computation Conference 
 - **Bao Nguyen**, Tran Thi Huong, Huynh Thi Thanh Binh, Le Trong Vinh. Asynchronous multi-agent reinforcement learning-based general charging scheme for connected target coverage maximization. *Under Review*.
 
 - Tran Thi Huong, **Bao Nguyen**, Vo Khac Hiep, Le Trong Vinh, Huynh Thi Thanh Binh. Adaptive periodic charging scheme using hybrid fuzzy state-based reinforcement learning in WRSNs. *Under Review*.
-
-If you encounter any technical or implementation errors in our papers or codes, please report them by sending me an email. Thank you!
 
 <span class='anchor' id='scholarships'></span>
 
