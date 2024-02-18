@@ -143,15 +143,15 @@ The Optimization Competition at Genetic and Evolutionary Computation Conference 
 
 ## Conference Publications
 
-- **Bao Nguyen**, Binh Nguyen, Viet Anh Nguyen. [Bellman Optimal Step-size Straightening of Flow-Matching Models](https://arxiv.org/abs/2312.16414), *ICLR, 2024*. [[Paper]](https://arxiv.org/abs/2312.16414) [[GitHub]](https://github.com/nguyenngocbaocmt02/BOSS)
+- **Bao Nguyen**, Binh Nguyen, Viet Anh Nguyen. [Bellman Optimal Step-size Straightening of Flow-Matching Models](https://arxiv.org/abs/2312.16414), *ICLR, 2024*. [[GitHub]](https://github.com/nguyenngocbaocmt02/BOSS)
 
-- **Bao Nguyen**, Viet Anh Nguyen. [Efficient Failure Pattern Identification of Predictive Algorithms](https://arxiv.org/abs/2306.00760), *UAI, 2023*. [[Paper]](https://arxiv.org/abs/2306.00760) [[GitHub]](https://github.com/nguyenngocbaocmt02/FPD)
+- **Bao Nguyen**, Viet Anh Nguyen. [Efficient Failure Pattern Identification of Predictive Algorithms](https://arxiv.org/abs/2306.00760), *UAI, 2023*. [[GitHub]](https://github.com/nguyenngocbaocmt02/FPD)
 
-- Le Van Cuong, **Nguyen Ngoc Bao**, Phuong Khanh Nguyen, Huynh Thi Thanh Binh. [Dynamic perturbation for population diversity management in differential evolution](https://www.researchgate.net/publication/362114322_Dynamic_perturbation_for_population_diversity_management_in_differential_evolution), *GECCO, 2022*. [[Paper]](https://www.researchgate.net/publication/362114322_Dynamic_perturbation_for_population_diversity_management_in_differential_evolution) [[GitHub]](https://github.com/nguyenngocbaocmt02/S-LSHADE-DP-GECCO2022-)
+- Le Van Cuong, **Nguyen Ngoc Bao**, Phuong Khanh Nguyen, Huynh Thi Thanh Binh. [Dynamic perturbation for population diversity management in differential evolution](https://www.researchgate.net/publication/362114322_Dynamic_perturbation_for_population_diversity_management_in_differential_evolution), *GECCO, 2022*. [[GitHub]](https://github.com/nguyenngocbaocmt02/S-LSHADE-DP-GECCO2022-)
 
-- Le Van Cuong, **Nguyen Ngoc Bao**, Huynh Thi Thanh Binh. [Technical report: A Multi-start Local Search Algorithm with L-SHADE for Single Objective Bound Constrained Optimization](https://www.researchgate.net/publication/372752118_Technical_report_A_Multi-start_Local_Search_Algorithm_with_L-SHADE_for_Single_Objective_Bound_Constrained_Optimization), *GECCO, 2022*. [[Paper]](https://www.researchgate.net/publication/372752118_Technical_report_A_Multi-start_Local_Search_Algorithm_with_L-SHADE_for_Single_Objective_Bound_Constrained_Optimization) [[GitHub]](https://github.com/nguyenngocbaocmt02/MS-LSHADE-GECCO2021-)
+- Le Van Cuong, **Nguyen Ngoc Bao**, Huynh Thi Thanh Binh. [Technical report: A Multi-start Local Search Algorithm with L-SHADE for Single Objective Bound Constrained Optimization](https://www.researchgate.net/publication/372752118_Technical_report_A_Multi-start_Local_Search_Algorithm_with_L-SHADE_for_Single_Objective_Bound_Constrained_Optimization), *GECCO, 2022*. [[GitHub]](https://github.com/nguyenngocbaocmt02/MS-LSHADE-GECCO2021-)
 
-- Tran Thi Huong, **Nguyen Ngoc Bao**, Ngo Minh Hai, Huynh Thi Thanh Binh. [Effective partial charging scheme for minimizing the energy depletion and charging cost in wireless rechargeable sensor networks](https://ieeexplore.ieee.org/document/9504948/), *IEEE Congress on Evolutionary Computation (CEC), 2021**. 
+- Tran Thi Huong, **Nguyen Ngoc Bao**, Ngo Minh Hai, Huynh Thi Thanh Binh. [Effective partial charging scheme for minimizing the energy depletion and charging cost in wireless rechargeable sensor networks](https://ieeexplore.ieee.org/document/9504948/), *IEEE Congress on Evolutionary Computation (CEC), 2021*. [[Paper]](https://www.researchgate.net/publication/353782930_Effective_Partial_Charging_Scheme_For_Minimizing_The_Energy_Depletion_And_Charging_Cost_In_Wireless_Rechargeable_Sensor_Networks)
 
 # Preprints
 - **Bao Nguyen**, Binh Nguyen, Hieu Trung Nguyen, Viet Anh Nguyen. Generative Conditional Distributions by Neural (Entropic) Optimal Transport. *Under Review*.
@@ -164,7 +164,7 @@ The Optimization Competition at Genetic and Evolutionary Computation Conference 
 
 - Tran Thi Huong, **Bao Nguyen**, Vo Khac Hiep, Le Trong Vinh, Huynh Thi Thanh Binh. Adaptive periodic charging scheme using hybrid fuzzy state-based reinforcement learning in WRSNs. *Under Review*.
 
-If you find any technical/implementation error in our papers/codes, please report by sending me an email. Thank you!
+If you encounter any technical or implementation errors in our papers or codes, please report them by sending me an email. Thank you!
 
 
 # 🚀 Projects
