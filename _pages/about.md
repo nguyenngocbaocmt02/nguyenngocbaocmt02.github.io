@@ -139,7 +139,7 @@ The Optimization Competition at Genetic and Evolutionary Computation Conference 
 # 📄 Publications
 ## Journal Publications
 
-- Nguyen Thanh Long, Tran Thi Huong, **Nguyen Ngoc Bao**, Huynh Thi Thanh Binh, Phi Le Nguyen, and Kien Nguyen. [Q-learning-based distributed multi-charging algorithm for large-scale WRSNs](https://www.researchgate.net/publication/366775648_Q-learning-based_distributed_multi-charging_algorithm_for_large-scale_WRSNs), *Nonlinear Theory and Its Applications Journal, IEICE, 2023*. [[Paper]](https://www.researchgate.net/publication/366775648_Q-learning-based_distributed_multi-charging_algorithm_for_large-scale_WRSNs)
+- Nguyen Thanh Long, Tran Thi Huong, **Nguyen Ngoc Bao**, Huynh Thi Thanh Binh, Phi Le Nguyen, and Kien Nguyen. [Q-learning-based distributed multi-charging algorithm for large-scale WRSNs](https://doi.org/10.1587/nolta.14.18), *Nonlinear Theory and Its Applications Journal, IEICE, 2023*. [[Paper]](https://www.researchgate.net/publication/366775648_Q-learning-based_distributed_multi-charging_algorithm_for_large-scale_WRSNs)
 
 ## Conference Publications
 
@@ -160,7 +160,7 @@ The Optimization Competition at Genetic and Evolutionary Computation Conference 
 
 - Hue Thi Tran, **Bao Nguyen**, Nguyen Tran Nhat Quoc, Pham Phu Manh, Nguyen Khanh Phuong, Huynh Thi Thanh Binh, Dang Quang Thang. The Vehicle Routing Problem with Drones and Flexibility Demands. *Under Review*.
 
-- **Bao Nguyen**, Tran Thi Huong, Huynh Thi Thanh Binh, Le Trong Vinh. [Asynchronous multi-agent reinforcement learning-based general charging scheme for connected target coverage maximization. *Under Review*.
+- **Bao Nguyen**, Tran Thi Huong, Huynh Thi Thanh Binh, Le Trong Vinh. Asynchronous multi-agent reinforcement learning-based general charging scheme for connected target coverage maximization. *Under Review*.
 
 - Tran Thi Huong, **Bao Nguyen**, Vo Khac Hiep, Le Trong Vinh, Huynh Thi Thanh Binh. Adaptive periodic charging scheme using hybrid fuzzy state-based reinforcement learning in WRSNs. *Under Review*.
 
@@ -168,14 +168,11 @@ If you encounter any technical or implementation errors in our papers or codes, 
 
 
 # 🚀 Projects
-- *Generative AI Technologies for Gynecological Healthcare in Vietnam*:
-  - [Link](https://gcgh.grandchallenges.org/grant/generative-ai-technologies-gynecological-healthcare-vietnam)
+- Generative AI Technologies for Gynecological Healthcare in Vietnam. [Link](https://gcgh.grandchallenges.org/grant/generative-ai-technologies-gynecological-healthcare-vietnam)
 
-- *Bot game MarioBros based on imitation learning and reinforcement learning*:
-  - [Github](https://github.com/nguyenngocbaocmt02/Bot-game-MarioBros-based-on-inmitation-learning-and-reinforcement-learning)
+- Bot game MarioBros based on imitation learning and reinforcement learning. [Github](https://github.com/nguyenngocbaocmt02/Bot-game-MarioBros-based-on-inmitation-learning-and-reinforcement-learning)
 
-- *Stock Price Prediction for Vietnamese stock market*:
-  - [Github](https://github.com/nguyenngocbaocmt02/VietnameseStockMarketAnalysis)
+- Stock Price Prediction for the Vietnamese stock market. [Github](https://github.com/nguyenngocbaocmt02/VietnameseStockMarketAnalysis)
 
 # 🏆 Awards & Achievements
 - *Sep 2023*: Top 13 out of 216 in the Vietnam Winter Alphathon 2023
