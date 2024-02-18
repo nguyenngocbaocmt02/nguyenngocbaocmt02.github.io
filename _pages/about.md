@@ -146,6 +146,11 @@ The Optimization Competition at Genetic and Evolutionary Computation Conference 
 
 <span style="color:red">If you encounter any technical or implementation errors in our papers or codes, please report them by sending me an email. Thank you!</span>
 
+# 📄 Thesis
+- Bachelor's research thesis. Multi-agent reinforcement learning strategy to maximize the lifetime of Wireless Rechargeable Sensor Networks. [[Link]](https://www.researchgate.net/publication/378292170_Multi-agent_reinforcement_learning_strategy_to_maximize_the_lifetime_of_Wireless_Rechargeable_Sensor_Networks) [[GitHub]](https://github.com/nguyenngocbaocmt02/multi_agent_rl_wrsn)
+
+<span class='anchor' id='scholarships'></span>
+
 # 📄 Preprints
 - **Bao Nguyen**, Binh Nguyen, Hieu Trung Nguyen, Viet Anh Nguyen. Generative Conditional Distributions by Neural (Entropic) Optimal Transport. *Under Review*.
 
