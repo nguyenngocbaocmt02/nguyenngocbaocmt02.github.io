@@ -108,7 +108,19 @@ Le Van Cuong, **Nguyen Ngoc Bao**, Phuong Khanh Nguyen, Huynh Thi Thanh Binh\\
 Genetic and Evolutionary Computation Conference (GECCO), 2022. \\
 <a href="https://doi.org/10.1145/3520304.3529075"><img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=GECCO&color=blue"></a>
 <a href="https://www.researchgate.net/publication/362114322_Dynamic_perturbation_for_population_diversity_management_in_differential_evolution"><img src="https://img.shields.io/badge/-Paper-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
+<a href="https://github.com/nguyenngocbaocmt02/S-LSHADE-DP-GECCO2022-"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
+</div>
+</div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GECCO</div><img src='images/de-report.png' alt="sym" style="width: 300px; max-height: 300px;"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Technical report: A Multi-start Local Search Algorithm with L-SHADE for Single Objective Bound Constrained Optimization](https://www.researchgate.net/publication/372752118_Technical_report_A_Multi-start_Local_Search_Algorithm_with_L-SHADE_for_Single_Objective_Bound_Constrained_Optimization) \\
+Le Van Cuong, **Nguyen Ngoc Bao**, Huynh Thi Thanh Binh\\
+The Optimization Competition at Genetic and Evolutionary Computation Conference (GECCO), 2021. \\
+<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0X9TWMEAAAAJ&citation_for_view=0X9TWMEAAAAJ:qjMakFHDy7sC"><img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=GECCO&color=blue"></a>
+<a href="https://www.researchgate.net/publication/372752118_Technical_report_A_Multi-start_Local_Search_Algorithm_with_L-SHADE_for_Single_Objective_Bound_Constrained_Optimization"><img src="https://img.shields.io/badge/-Paper-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
+<a href="https://github.com/nguyenngocbaocmt02/MS-LSHADE-GECCO2021-"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
 </div>
 </div>
 
