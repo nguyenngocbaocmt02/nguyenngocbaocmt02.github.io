@@ -19,7 +19,7 @@ redirect_from:
 
 # About Me
 
-Hello, I'm Bao, a research assistant under the supervision of [Prof. Viet Anh Nguyen](https://vietanhnguyen.net) at [VinUniversity](https://vinuni.edu.vn/). I'm going to pursue my Ph.D. degree in [The Department of Systems Engineering and Engineering Management](https://www.se.cuhk.edu.hk/) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html) in September 2024. I received a bachelor's degree in computer science from Hanoi University of Science and Technology in 2023.
+Hello, I'm Bao, a research assistant under the supervision of [Prof. Viet Anh Nguyen](https://vietanhnguyen.net) at [VinUniversity](https://vinuni.edu.vn/). I'm going to pursue my Ph.D. degree in [The Department of Systems Engineering and Engineering Management](https://www.se.cuhk.edu.hk/) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html) in September 2024. I received a bachelor's degree in computer science from Hanoi University of Science and Technology (HUST) in 2023. At HUST, I was fortunate to be advised by [Prof. Huynh Thi Thanh Binh](https://users.soict.hust.edu.vn/binhht/).
 
 My research interests center on the intersection of optimization, generative models, and machine learning. Additionally, I have experience in reinforcement learning, model interpretability, and robustness in machine learning. Recently, I've been focusing on optimal transport, diffusion/flow matching models, and their applications to image generation.
 
@@ -207,4 +207,7 @@ The Optimization Competition at Genetic and Evolutionary Computation Conference 
 
 # 🛠 Professional Services
 - Reviewer for conferences: *NeurIPS 2023*, *ICLR 2024*.
+  
+# References
+- [Prof. Viet Anh Nguyen](https://vietanhnguyen.net)
 
