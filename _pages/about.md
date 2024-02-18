@@ -83,7 +83,7 @@ The Conference on Uncertainty in Artificial Intelligence (UAI), 2023. \\
 <a href="https://arxiv.org/abs/2306.00760"><img src="https://img.shields.io/badge/-Paper-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
 <a href="https://github.com/nguyenngocbaocmt02/FPD"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
 <!-- <a href="https://colab.research.google.com/drive/1t0_4BxEJ0XncyYvn_VyEQhxwNMvtSUNx?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab"></a> -->
-<a href="https://proceedings.mlr.press/v216/nguyen23c/nguyen23c.pdf"> <img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=ICML%2722&color=blue"> </a> -->
+<a href="https://proceedings.mlr.press/v216/nguyen23c/nguyen23c.pdf"> <img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=UAI%2723&color=blue"> </a>
 
 </div>
 </div>
