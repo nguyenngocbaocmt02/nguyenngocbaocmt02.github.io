@@ -83,7 +83,7 @@ The Conference on Uncertainty in Artificial Intelligence (UAI), 2023. \\
 <a href="https://arxiv.org/abs/2306.00760"><img src="https://img.shields.io/badge/-Paper-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
 <a href="https://github.com/nguyenngocbaocmt02/FPD"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
 <!-- <a href="https://colab.research.google.com/drive/1t0_4BxEJ0XncyYvn_VyEQhxwNMvtSUNx?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab"></a> -->
-<a href="https://proceedings.mlr.press/v216/nguyen23c/nguyen23c.pdf"> <img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=UAI%2723&color=blue"> </a>
+<a href="https://proceedings.mlr.press/v216/nguyen23c"> <img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=UAI%2723&color=blue"> </a>
 
 </div>
 </div>
@@ -94,8 +94,8 @@ The Conference on Uncertainty in Artificial Intelligence (UAI), 2023. \\
 [Q-learning-based distributed multi-charging algorithm for large-scale WRSNs](https://www.researchgate.net/publication/366775648_Q-learning-based_distributed_multi-charging_algorithm_for_large-scale_WRSNs) \\
 Nguyen Thanh Long, Tran Thi Huong, **Nguyen Ngoc Bao**, Huynh Thi Thanh Binh, Phi Le Nguyen, and Kien Nguyen \\
 Nonlinear Theory and Its Applications Journal, IEICE, 2023. \\
-<a href="https://www.researchgate.net/publication/366775648_Q-learning-based_distributed_multi-charging_algorithm_for_large-scale_WRSNs"><img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=NOLTA&color=blue"></a>
-<a href="https://doi.org/10.1587/nolta.14.18"><img src="https://img.shields.io/badge/-Paper-grey?logo=gitbook&logoColor=white" alt="Journal"></a>
+<a href="https://doi.org/10.1587/nolta.14.18"><img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=NOLTA&color=blue"></a>
+<a href="https://www.researchgate.net/publication/366775648_Q-learning-based_distributed_multi-charging_algorithm_for_large-scale_WRSNs"><img src="https://img.shields.io/badge/-Paper-grey?logo=gitbook&logoColor=white" alt="Journal"></a>
 
 </div>
 </div>
@@ -106,8 +106,8 @@ Nonlinear Theory and Its Applications Journal, IEICE, 2023. \\
 [Dynamic perturbation for population diversity management in differential evolution](https://www.researchgate.net/publication/362114322_Dynamic_perturbation_for_population_diversity_management_in_differential_evolution) \\
 Le Van Cuong, **Nguyen Ngoc Bao**, Phuong Khanh Nguyen, Huynh Thi Thanh Binh\\
 Genetic and Evolutionary Computation Conference (GECCO), 2022. \\
-<a href="https://www.researchgate.net/publication/362114322_Dynamic_perturbation_for_population_diversity_management_in_differential_evolution"><img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=GECCO&color=blue"></a>
-<a href="https://doi.org/10.1145/3520304.3529075"><img src="https://img.shields.io/badge/-Paper-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
+<a href="https://doi.org/10.1145/3520304.3529075"><img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=GECCO&color=blue"></a>
+<a href="https://www.researchgate.net/publication/362114322_Dynamic_perturbation_for_population_diversity_management_in_differential_evolution"><img src="https://img.shields.io/badge/-Paper-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
 
 </div>
 </div>
