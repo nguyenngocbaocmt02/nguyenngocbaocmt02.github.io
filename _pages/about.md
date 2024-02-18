@@ -73,15 +73,17 @@ The International Conference on Learning Representations (ICLR), 2024. \\
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AISTATS 2023</div><img src='images/frpd.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UAI 2023</div><img src='images/DS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Bellman Optimal Step-size Straightening of Flow-Matching Models](https://arxiv.org/abs/2312.16414) \\
-**Bao Nguyen**, Binh Nguyen, Viet Anh Nguyen. \\
-The 26th International Conference on Artificial Intelligence and Statistics (AISTATS), 2023. \\
-<a href="https://arxiv.org/abs/2302.11213"><img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=AISTATS 2023&color=blue"></a> 
-<a href="https://arxiv.org/abs/2302.11213"><img src="https://img.shields.io/badge/-Paper-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
-<a href="https://github.com/duykhuongnguyen/recourse-plan-diverse-interpolation"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
+[Efficient Failure Pattern Identification of Predictive Algorithms](https://arxiv.org/abs/2306.00760) \\
+**Bao Nguyen**, Viet Anh Nguyen. \\
+The Conference on Uncertainty in Artificial Intelligence (UAI), 2023. \\
+<a href="https://openreview.net/forum?id=DBs6SA_fKb"><img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=ICLR 2024&color=blue"></a>
+<a href="https://arxiv.org/abs/2306.00760"><img src="https://img.shields.io/badge/-Paper-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
+<a href="https://github.com/nguyenngocbaocmt02/FPD"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
+<!-- <a href="https://colab.research.google.com/drive/1t0_4BxEJ0XncyYvn_VyEQhxwNMvtSUNx?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab"></a> -->
+<!-- <a href="https://proceedings.mlr.press/v162/miao22a.html"> <img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=ICML%2722&color=blue"> </a> -->
 
 </div>
 </div>
