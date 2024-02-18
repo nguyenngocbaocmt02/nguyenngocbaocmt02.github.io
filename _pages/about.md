@@ -26,6 +26,7 @@ My research interests center on the intersection of optimization, generative mod
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
+<span class='anchor' id='news'></span>
 # 🔥 News
 
 - *January 2024*: Our paper [Bellman Optimal Step-size Straightening of Flow-Matching Models](https://arxiv.org/abs/2312.16414) is accepted to ICLR 2024!
@@ -123,19 +124,8 @@ The Optimization Competition at Genetic and Evolutionary Computation Conference 
 <a href="https://github.com/nguyenngocbaocmt02/MS-LSHADE-GECCO2021-"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
 </div>
 </div>
-
-# 🎓 Education
-- *Sep 2019 - Sep 2023*: Bachelor in Computer Science (Talented Programme)
-  - Hanoi University of Science and Technology, Hanoi, Vietnam
-  - GPA: 3.85/4.00
-
-# 💼 Work Experience
-- *April 2022 - Present*: Research Assistant
-  - VinUniversity, Hanoi, Vietnam
-
-- *Jul 2022 - Apr 2023*: Research Assistant
-  - Hanoi University of Science and Technology, Hanoi, Vietnam
-
+  
+<span class='anchor' id='pub'></span>
 # 📰 Publications
 
 ## Journal Publications
@@ -167,13 +157,7 @@ The Optimization Competition at Genetic and Evolutionary Computation Conference 
 
 If you encounter any technical or implementation errors in our papers or codes, please report them by sending me an email. Thank you!
 
-
-# 🚀 Projects
-- Generative AI Technologies for Gynecological Healthcare in Vietnam. [Link](https://gcgh.grandchallenges.org/grant/generative-ai-technologies-gynecological-healthcare-vietnam)
-
-- Bot game MarioBros based on imitation learning and reinforcement learning. [Github](https://github.com/nguyenngocbaocmt02/Bot-game-MarioBros-based-on-inmitation-learning-and-reinforcement-learning)
-
-- Stock Price Prediction for the Vietnamese stock market. [Github](https://github.com/nguyenngocbaocmt02/VietnameseStockMarketAnalysis)
+<span class='anchor' id='scholarships'></span>
 
 # 🏆 Scholarships
 - *Jul 2021, Jan 2022, Jun 2022, Jan 2023*: Study encouragement scholarship, awarded by Hanoi University of Science and Technology, Hanoi, Vietnam
@@ -191,6 +175,26 @@ If you encounter any technical or implementation errors in our papers or codes, 
 - *Jan 2017*: The Silver Medal of Mathematics National Exam, awarded by Vietnam Ministry of Education, Vietnam
 - *Jan 2017*: The $3^{th}$ place in the Science and Technology National Contest, awarded by the Vietnam Ministry of Education, Vietnam
 
+<span class='anchor' id='experience'></span>
+# 🎓 Education
+- *Sep 2019 - Sep 2023*: Bachelor in Computer Science (Talented Programme)
+  - Hanoi University of Science and Technology, Hanoi, Vietnam
+  - GPA: 3.85/4.00
+
+# 💼 Work Experience
+- *April 2022 - Present*: Research Assistant
+  - VinUniversity, Hanoi, Vietnam
+
+- *Jul 2022 - Apr 2023*: Research Assistant
+  - Hanoi University of Science and Technology, Hanoi, Vietnam
+
+# 🚀 Projects
+- Generative AI Technologies for Gynecological Healthcare in Vietnam. [Link](https://gcgh.grandchallenges.org/grant/generative-ai-technologies-gynecological-healthcare-vietnam)
+
+- Bot game MarioBros based on imitation learning and reinforcement learning. [Github](https://github.com/nguyenngocbaocmt02/Bot-game-MarioBros-based-on-inmitation-learning-and-reinforcement-learning)
+
+- Stock Price Prediction for the Vietnamese stock market. [Github](https://github.com/nguyenngocbaocmt02/VietnameseStockMarketAnalysis)
+  
 # 💻 Skills
 - **Programming:** Python, C, C++, Java, MATLAB, SQL
 - **Technologies:** Pytorch, TensorFlow, Git, Docker, SSH, Spark, Hadoop
