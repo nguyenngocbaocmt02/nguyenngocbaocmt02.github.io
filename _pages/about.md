@@ -165,9 +165,9 @@ The Optimization Competition at Genetic and Evolutionary Computation Conference 
 <span class='anchor' id='scholarships'></span>
 
 # 🏆 Scholarships
-- *Jul 2021, Jan 2022, Jun 2022, Jan 2023*: Study encouragement scholarship, awarded by Hanoi University of Science and Technology, Hanoi, Vietnam
+- *Jul 2021, Jan 2022, Jun 2022, Jan 2023*: Study encouragement scholarship, awarded by Hanoi University of Science and Technology, Hanoi, Vietnam [Cert]()
 - *Jun 2022*: Scholarship from Lotte Corporation, awarded by Lotte Corporation, Hanoi, Vietnam
-- *Jun 2021*: Scholarship from Vietnam Gas Corporation, awarded by Vietnam Gas Corporation, Hanoi, Vietnam
+- *Jun 2021*: Scholarship from Vietnam Gas Corporation, awarded by Vietnam Gas Corporation, Hanoi, Vietnam [Cert]()
 
 # 🏅 Competitions
 - *Sep 2023*: Top 13 out of 216 in the Vietnam Winter Alphathon 2023, issued by WorldQuant Brain, Hanoi, Vietnam [Link](https://platform.worldquantbrain.com/competition/winteralphathonVN2023) [Cert]()
@@ -177,8 +177,8 @@ The Optimization Competition at Genetic and Evolutionary Computation Conference 
 - *Apr 2023*: International Quant Championship 2023, organized by WorldQuant Brain, Hanoi, Vietnam [Link](https://platform.worldquantbrain.com/competition/IQC2023S2F) [Cert]()
 - *Aug 2021, Jun 2022*: The $4^{th}$ prize of Competition Single Objective Bound Constrained Optimization, organized by Association for Computing Machinery Special Interest Group (SIGEVO), New York, US [Link](https://gecco-2022.sigevo.org/Competitions#id_Competition%20on%20Real%20Parameter%20Single%20Objective%20Bound%20Constrained%20Optimization) [Cert]()
 - *Sep 2019*: Top 5 students with the highest scores in the National University Entrance Exam, awarded by Vietnam Ministry of Education, Hanoi, Vietnam
-- *Jan 2016*: The Silver Medal of Mathematics National Exam, awarded by Vietnam Ministry of Education, Vietnam
-- *Jan 2016*: The consolidation prize in the Science and Technology National Contest, awarded by the Vietnam Ministry of Education, Vietnam
+- *Jan 2016*: The Silver Medal of Mathematics National Exam, awarded by Vietnam Ministry of Education, Vietnam [Cert]()
+- *Jan 2016*: The consolidation prize in the Science and Technology National Contest, awarded by the Vietnam Ministry of Education, Vietnam [Cert]()
 
 <span class='anchor' id='experience'></span>
 # 🎓 Education
