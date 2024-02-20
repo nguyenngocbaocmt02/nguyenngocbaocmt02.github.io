@@ -178,7 +178,7 @@ The Optimization Competition at Genetic and Evolutionary Computation Conference 
 - *Aug 2021, Jun 2022*: The $4^{th}$ prize of Competition Single Objective Bound Constrained Optimization, organized by Association for Computing Machinery Special Interest Group (SIGEVO), New York, US
 - *Sep 2019*: Top 5 students with the highest scores in the National University Entrance Exam, awarded by Vietnam Ministry of Education, Hanoi, Vietnam
 - *Jan 2017*: The Silver Medal of Mathematics National Exam, awarded by Vietnam Ministry of Education, Vietnam
-- *Jan 2017*: The $3^{th}$ place in the Science and Technology National Contest, awarded by the Vietnam Ministry of Education, Vietnam
+- *Jan 2017*: The consolidation prize in the Science and Technology National Contest, awarded by the Vietnam Ministry of Education, Vietnam
 
 <span class='anchor' id='experience'></span>
 # 🎓 Education
