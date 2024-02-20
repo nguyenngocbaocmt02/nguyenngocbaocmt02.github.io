@@ -170,15 +170,15 @@ The Optimization Competition at Genetic and Evolutionary Computation Conference 
 - *Jun 2021*: Scholarship from Vietnam Gas Corporation, awarded by Vietnam Gas Corporation, Hanoi, Vietnam
 
 # 🏅 Competitions
-- *Sep 2023*: Top 13 out of 216 in the Vietnam Winter Alphathon 2023, issued by WorldQuant Brain, Hanoi, Vietnam
-- *Sep 2023*: The third place in the Face Analysis Challenge, organized by PIXTA Vietnam, Cohost AI, and Viblo, Hanoi, Vietnam
-- *Jul 2023*: Runners-up in NESTQUANT Tournament, organized by NestQuant Incorporation, Hanoi, Vietnam
-- *Jun 2023*: UAI conference scholarship, awarded by the Association for Uncertainty in Artificial Intelligence, held at Carnegie Mellon University, Pittsburgh, PA, USA
-- *Apr 2023*: Top 1% International Quant Championship 2023, organized by WorldQuant Brain, Hanoi, Vietnam
-- *Aug 2021, Jun 2022*: The $4^{th}$ prize of Competition Single Objective Bound Constrained Optimization, organized by Association for Computing Machinery Special Interest Group (SIGEVO), New York, US
+- *Sep 2023*: Top 13 out of 216 in the Vietnam Winter Alphathon 2023, issued by WorldQuant Brain, Hanoi, Vietnam [Link](https://platform.worldquantbrain.com/competition/winteralphathonVN2023) [Cert]()
+- *Sep 2023*: The third place in the Face Analysis Challenge, organized by PIXTA Vietnam, Cohost AI, and Viblo, Hanoi, Vietnam [Link](https://hackathon.pixta.vn) [Cert]()
+- *Jul 2023*: Runners-up in NESTQUANT Tournament, organized by NestQuant Incorporation, Hanoi, Vietnam [Link](https://tournament-docs.nestquant.com/nestquant-tournament/overview) [Cert]()
+- *Jun 2023*: UAI conference scholarship, awarded by the Association for Uncertainty in Artificial Intelligence, held at Carnegie Mellon University, Pittsburgh, PA, USA [Link](https://www.auai.org/uai2023/scholarships) [Cert]()
+- *Apr 2023*: International Quant Championship 2023, organized by WorldQuant Brain, Hanoi, Vietnam [Link](https://platform.worldquantbrain.com/competition/IQC2023S2F) [Cert]()
+- *Aug 2021, Jun 2022*: The $4^{th}$ prize of Competition Single Objective Bound Constrained Optimization, organized by Association for Computing Machinery Special Interest Group (SIGEVO), New York, US [Link](https://gecco-2022.sigevo.org/Competitions#id_Competition%20on%20Real%20Parameter%20Single%20Objective%20Bound%20Constrained%20Optimization) [Cert]()
 - *Sep 2019*: Top 5 students with the highest scores in the National University Entrance Exam, awarded by Vietnam Ministry of Education, Hanoi, Vietnam
-- *Jan 2017*: The Silver Medal of Mathematics National Exam, awarded by Vietnam Ministry of Education, Vietnam
-- *Jan 2017*: The consolidation prize in the Science and Technology National Contest, awarded by the Vietnam Ministry of Education, Vietnam
+- *Jan 2016*: The Silver Medal of Mathematics National Exam, awarded by Vietnam Ministry of Education, Vietnam
+- *Jan 2016*: The consolidation prize in the Science and Technology National Contest, awarded by the Vietnam Ministry of Education, Vietnam
 
 <span class='anchor' id='experience'></span>
 # 🎓 Education
