@@ -29,6 +29,7 @@ My research interests center on the intersection of optimization, generative mod
 <span class='anchor' id='news'></span>
 # 🔥 News
 
+- *March 2024*: I am fortunate to be granted ICLR 2024 Travel Grant (~$2,200)!
 - *January 2024*: Our paper [Bellman Optimal Step-size Straightening of Flow-Matching Models](https://arxiv.org/abs/2312.16414) is accepted to ICLR 2024!
 - *June 2023*: Our paper [Efficient Failure Pattern Identification of Predictive Algorithms](https://arxiv.org/abs/2306.00760) is accepted to UAI 2023!
 
@@ -144,6 +145,8 @@ The Optimization Competition at Genetic and Evolutionary Computation Conference 
 
 - Tran Thi Huong, **Nguyen Ngoc Bao**, Ngo Minh Hai, Huynh Thi Thanh Binh. [Effective partial charging scheme for minimizing the energy depletion and charging cost in wireless rechargeable sensor networks](https://ieeexplore.ieee.org/document/9504948/), *IEEE Congress on Evolutionary Computation (CEC), 2021*. [[Paper]](https://www.researchgate.net/publication/353782930_Effective_Partial_Charging_Scheme_For_Minimizing_The_Energy_Depletion_And_Charging_Cost_In_Wireless_Rechargeable_Sensor_Networks)
 
+- Hue Thi Tran, **Bao Nguyen**, Nguyen Tran Nhat Quoc, Pham Phu Manh, Nguyen Khanh Phuong, Huynh Thi Thanh Binh, Dang Quang Thang. The Vehicle Routing Problem with Drones and Flexibility Demands. IEEE World Congress on Computational Intelligence (WCCI), 2024.
+
 <span style="color:red">If you encounter any technical or implementation errors in our papers or codes, please report them by sending me an email. Thank you!</span>
 
 # 📄 Thesis
@@ -156,15 +159,14 @@ The Optimization Competition at Genetic and Evolutionary Computation Conference 
 
 - Duy Nguyen, **Bao Nguyen** and Viet Anh Nguyen. Cost Adaptive Recourse Recommendation by Adaptive Preference Elicitation. *Under Review*.
 
-- Hue Thi Tran, **Bao Nguyen**, Nguyen Tran Nhat Quoc, Pham Phu Manh, Nguyen Khanh Phuong, Huynh Thi Thanh Binh, Dang Quang Thang. The Vehicle Routing Problem with Drones and Flexibility Demands. *Under Review*.
-
 - **Bao Nguyen**, Tran Thi Huong, Huynh Thi Thanh Binh, Le Trong Vinh. Asynchronous multi-agent reinforcement learning-based general charging scheme for connected target coverage maximization. *Under Review*.
 
 - Tran Thi Huong, **Bao Nguyen**, Vo Khac Hiep, Le Trong Vinh, Huynh Thi Thanh Binh. Adaptive periodic charging scheme using hybrid fuzzy state-based reinforcement learning in WRSNs. *Under Review*.
 
 <span class='anchor' id='scholarships'></span>
 
-# 🏆 Scholarships
+# 🏆 Scholarships and Grants
+- *Mar 2024*: ICLR 2024 Travel Grant (~$2,200)
 - *Jul 2021, Jan 2022, Jun 2022, Jan 2023*: Study encouragement scholarship, awarded by Hanoi University of Science and Technology, Hanoi, Vietnam [Cert20212](https://drive.google.com/file/d/1HP79nrwFTZjdoKkQSFP5Ql1jrSd4-Rze/view?usp=drive_link) [Cert20221](https://drive.google.com/file/d/1OFXqLnmfC3_CdG1KGQzp27ISL2mvpHyO/view?usp=drive_link) [Cert20222](https://drive.google.com/file/d/1qr-d8lrlPecRrHj2x5hnBxkJozv2krsz/view?usp=drive_link) [Cert20231](https://drive.google.com/file/d/1Or6yroomRBb7CPeW16tI33Rx4PUWwE6i/view?usp=drive_link)
 - *Jun 2022*: Scholarship from Lotte Corporation, awarded by Lotte Corporation, Hanoi, Vietnam
 - *Jun 2021*: Scholarship from Vietnam Gas Corporation, awarded by Vietnam Gas Corporation, Hanoi, Vietnam [Cert](https://drive.google.com/file/d/1nI81Y82wiAXDUx8z4YoA57gzB7Yrxz0R/view?usp=drive_link)
