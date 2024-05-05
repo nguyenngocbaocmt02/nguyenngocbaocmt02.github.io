@@ -143,7 +143,8 @@ The Optimization Competition at Genetic and Evolutionary Computation Conference 
 - Nguyen Thanh Long, Tran Thi Huong, **Nguyen Ngoc Bao**, Huynh Thi Thanh Binh, Phi Le Nguyen, and Kien Nguyen. [Q-learning-based distributed multi-charging algorithm for large-scale WRSNs](https://doi.org/10.1587/nolta.14.18), *Nonlinear Theory and Its Applications Journal, IEICE, 2023*. [[Paper]](https://www.researchgate.net/publication/366775648_Q-learning-based_distributed_multi-charging_algorithm_for_large-scale_WRSNs)
 
 ## Conference Publications
-
+- **Bao Nguyen**, Binh Nguyen, Hieu Nguyen, Viet Anh Nguyen. [Generative Conditional Distributions by Neural (Entropic) Optimal Transport](https://vietanhnguyen.net/gentle.pdf), *ICML, 2024*.
+- 
 - **Bao Nguyen**, Binh Nguyen, Viet Anh Nguyen. [Bellman Optimal Step-size Straightening of Flow-Matching Models](https://arxiv.org/abs/2312.16414), *ICLR, 2024*. [[GitHub]](https://github.com/nguyenngocbaocmt02/BOSS)
 
 - **Bao Nguyen**, Viet Anh Nguyen. [Efficient Failure Pattern Identification of Predictive Algorithms](https://arxiv.org/abs/2306.00760), *UAI, 2023*. [[GitHub]](https://github.com/nguyenngocbaocmt02/FPD)
