@@ -64,7 +64,7 @@ My research interests center on the intersection of optimization, generative mod
 
 [Generative Conditional Distributions by Neural (Entropic) Optimal Transport](https://vietanhnguyen.net/gentle.pdf) \\
 **Bao Nguyen**, Binh Nguyen, Hieu Nguyen, Viet Anh Nguyen. \\
-The International Conference on Machine Learning (ICML), 2024. \\
+The International Conference on Machine Learning (ICML), 2024.
 </div>
 </div>
 
@@ -144,7 +144,7 @@ The Optimization Competition at Genetic and Evolutionary Computation Conference 
 
 ## Conference Publications
 - **Bao Nguyen**, Binh Nguyen, Hieu Nguyen, Viet Anh Nguyen. [Generative Conditional Distributions by Neural (Entropic) Optimal Transport](https://vietanhnguyen.net/gentle.pdf), *ICML, 2024*.
-- 
+  
 - **Bao Nguyen**, Binh Nguyen, Viet Anh Nguyen. [Bellman Optimal Step-size Straightening of Flow-Matching Models](https://arxiv.org/abs/2312.16414), *ICLR, 2024*. [[GitHub]](https://github.com/nguyenngocbaocmt02/BOSS)
 
 - **Bao Nguyen**, Viet Anh Nguyen. [Efficient Failure Pattern Identification of Predictive Algorithms](https://arxiv.org/abs/2306.00760), *UAI, 2023*. [[GitHub]](https://github.com/nguyenngocbaocmt02/FPD)
