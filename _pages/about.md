@@ -165,7 +165,6 @@ The Optimization Competition at Genetic and Evolutionary Computation Conference 
 <span class='anchor' id='scholarships'></span>
 
 # 📄 Preprints
-- **Bao Nguyen**, Binh Nguyen, Hieu Trung Nguyen, Viet Anh Nguyen. Generative Conditional Distributions by Neural (Entropic) Optimal Transport. *Under Review*.
 
 - Duy Nguyen, **Bao Nguyen** and Viet Anh Nguyen. Cost Adaptive Recourse Recommendation by Adaptive Preference Elicitation. *Under Review*.
 
@@ -218,7 +217,7 @@ The Optimization Competition at Genetic and Evolutionary Computation Conference 
 - **Languages:** Vietnamese (Native), English (IELTS Academic 7.0 - All skills are above 6.0, TOEIC 900) 
 
 # 🛠 Professional Services
-- Reviewer for conferences: *NeurIPS 2023*, *ICLR 2024*.
+- Reviewer for conferences: *NeurIPS 2023*, *ICLR 2024*, *ICML 2024*.
 
 <span class='anchor' id='cv'></span>
 # Latest CV
