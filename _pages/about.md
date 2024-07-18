@@ -222,7 +222,7 @@ The Optimization Competition at Genetic and Evolutionary Computation Conference 
 
 <span class='anchor' id='cv'></span>
 # Latest CV
-- CV updated to 18/2/2024: [Link](https://drive.google.com/file/d/1nrxHNrnLWZC3sD8CTrYH6RnC46YobPSu/view?usp=sharing)
+- CV updated to 18/2/2024: [Link](https://drive.google.com/file/d/18s9g88U9RBr4nUvHiOVC9QZuV0AVEgnQ/view?usp=sharing)
   
 # References
 - [Prof. Huynh Thi Thanh Binh](https://users.soict.hust.edu.vn/binhht/)
