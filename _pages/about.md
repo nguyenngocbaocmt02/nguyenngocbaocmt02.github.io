@@ -218,7 +218,7 @@ The Optimization Competition at Genetic and Evolutionary Computation Conference 
 - **Languages:** Vietnamese (Native), English (IELTS Academic 7.0 - All skills are above 6.0, TOEIC 900) 
 
 # 🛠 Professional Services
-- Reviewer for conferences: *NeurIPS 2023*, *ICLR 2024*, *ICML 2024*.
+- Reviewer for conferences: *NeurIPS 2023*, *ICLR 2024*, *ICML 2024*, *NeurIPS 2024*.
 
 <span class='anchor' id='cv'></span>
 # Latest CV
