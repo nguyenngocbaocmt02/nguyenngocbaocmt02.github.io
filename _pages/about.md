@@ -29,7 +29,7 @@ My research interests center on the intersection of optimization, generative mod
 <span class='anchor' id='news'></span>
 # 🔥 News
 
-- *May 2024*: Our paper [Generative Conditional Distributions by Neural (Entropic) Optimal Transport](https://www.vietanhnguyen.net/gentle.pdf) is accepted to ICML 2024!
+- *May 2024*: Our paper [Generative Conditional Distributions by Neural (Entropic) Optimal Transport](https://arxiv.org/pdf/2406.02317) is accepted to ICML 2024!
 - *March 2024*: I am fortunate to be granted ICLR 2024 Travel Grant (~$2,200)!
 - *January 2024*: Our paper [Bellman Optimal Step-size Straightening of Flow-Matching Models](https://arxiv.org/abs/2312.16414) is accepted to ICLR 2024!
 - *June 2023*: Our paper [Efficient Failure Pattern Identification of Predictive Algorithms](https://arxiv.org/abs/2306.00760) is accepted to UAI 2023!
@@ -218,7 +218,7 @@ The Optimization Competition at Genetic and Evolutionary Computation Conference 
 - **Languages:** Vietnamese (Native), English (IELTS Academic 7.0 - All skills are above 6.0, TOEIC 900) 
 
 # 🛠 Professional Services
-- Reviewer for conferences: *NeurIPS 2023*, *ICLR 2024*, *ICML 2024*, *NeurIPS 2024*.
+- Reviewer for conferences: *NeurIPS 2023, 2024*, *ICLR 2024*, *ICML 2024*, *AAAI 2025*.
 
 <span class='anchor' id='cv'></span>
 # Latest CV
