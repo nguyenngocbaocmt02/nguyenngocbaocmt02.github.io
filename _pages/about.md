@@ -63,7 +63,7 @@ My research interests center on the intersection of optimization, generative mod
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/gentle.png' alt="sym" style="width: 300px; max-height: 300px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Generative Conditional Distributions by Neural (Entropic) Optimal Transport](https://vietanhnguyen.net/gentle.pdf) \\
+[Generative Conditional Distributions by Neural (Entropic) Optimal Transport](https://arxiv.org/pdf/2406.02317) \\
 **Bao Nguyen**, Binh Nguyen, Hieu Nguyen, Viet Anh Nguyen. \\
 The International Conference on Machine Learning (ICML), 2024.
 </div>
