@@ -19,9 +19,9 @@ redirect_from:
 
 # About Me
 
-Hello, I'm Bao, a research assistant under the supervision of [Prof. Viet Anh Nguyen](https://vietanhnguyen.net) and [Prof. Khoa D Doan](https://khoadoan.me/) at [VinUniversity](https://vinuni.edu.vn/). I'm going to pursue my Ph.D. degree in [The Department of Systems Engineering and Engineering Management](https://www.se.cuhk.edu.hk/) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html) in September 2024. I received a bachelor's degree in computer science from Hanoi University of Science and Technology (HUST) in 2023. At HUST, I was fortunate to be advised by [Prof. Huynh Thi Thanh Binh](https://users.soict.hust.edu.vn/binhht/).
+Hello, I'm Bao,  a Ph.D. student in [The Department of Systems Engineering and Engineering Management](https://www.se.cuhk.edu.hk/) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html) under the supervision of [Prof. Viet Anh Nguyen](https://vietanhnguyen.net). Previously, I worked as a research assistant under the supervision of [Prof. Viet Anh Nguyen](https://vietanhnguyen.net) and [Prof. Khoa D Doan](https://khoadoan.me/) at [VinUniversity](https://vinuni.edu.vn/). I received a bachelor's degree in computer science from Hanoi University of Science and Technology (HUST) in 2023. At HUST, I was fortunate to be advised by [Prof. Huynh Thi Thanh Binh](https://users.soict.hust.edu.vn/binhht/).
 
-My research interests center on the intersection of optimization, generative models, and machine learning. Additionally, I have experience in reinforcement learning, model interpretability, and robustness in machine learning. Recently, I've been focusing on optimal transport, diffusion/flow matching models, and their applications to image generation.
+My research interests center on the intersection of optimization, generative models, and machine learning. Additionally, I have experience in reinforcement learning, model interpretability, and robustness in machine learning. Recently, I've been focusing on language models and reasoning.
 
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
@@ -29,6 +29,7 @@ My research interests center on the intersection of optimization, generative mod
 <span class='anchor' id='news'></span>
 # 🔥 News
 
+- *Jan 2025*: Two papers about intervention for LMs [Probe-Free Low-Rank Activation Intervention](https://arxiv.org/abs/2502.04043), [Task-driven Layerwise Additive Activation Intervention](https://arxiv.org/abs/2502.06115) are accepted to NAACL 2024!
 - *May 2024*: Our paper [Generative Conditional Distributions by Neural (Entropic) Optimal Transport](https://arxiv.org/pdf/2406.02317) is accepted to ICML 2024!
 - *March 2024*: I am fortunate to be granted ICLR 2024 Travel Grant (~$2,200)!
 - *January 2024*: Our paper [Bellman Optimal Step-size Straightening of Flow-Matching Models](https://arxiv.org/abs/2312.16414) is accepted to ICLR 2024!
@@ -144,6 +145,10 @@ The Optimization Competition at Genetic and Evolutionary Computation Conference 
 - Nguyen Thanh Long, Tran Thi Huong, **Nguyen Ngoc Bao**, Huynh Thi Thanh Binh, Phi Le Nguyen, and Kien Nguyen. [Q-learning-based distributed multi-charging algorithm for large-scale WRSNs](https://doi.org/10.1587/nolta.14.18), *Nonlinear Theory and Its Applications Journal, IEICE, 2023*. [[Paper]](https://www.researchgate.net/publication/366775648_Q-learning-based_distributed_multi-charging_algorithm_for_large-scale_WRSNs)
 
 ## Conference Publications
+- Chonghe Jiang, **Bao Nguyen**, Anthony Man-Cho So, Viet Anh Nguyen. [Probe-Free Low-Rank Activation Intervention](https://arxiv.org/abs/2502.04043), *NAACL, 2025*.
+
+- Hieu Nguyen, **Bao Nguyen**, Binh Nguyen, , Viet Anh Nguyen. , [Task-driven Layerwise Additive Activation Intervention](https://arxiv.org/abs/2502.06115), *NAACL, 2025*.
+    
 - **Bao Nguyen**, Binh Nguyen, Hieu Nguyen, Viet Anh Nguyen. [Generative Conditional Distributions by Neural (Entropic) Optimal Transport](https://arxiv.org/pdf/2406.02317), *ICML, 2024*.
   
 - **Bao Nguyen**, Binh Nguyen, Viet Anh Nguyen. [Bellman Optimal Step-size Straightening of Flow-Matching Models](https://arxiv.org/abs/2312.16414), *ICLR, 2024*. [[GitHub]](https://github.com/nguyenngocbaocmt02/BOSS)
