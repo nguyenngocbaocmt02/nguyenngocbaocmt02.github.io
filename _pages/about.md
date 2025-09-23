@@ -29,6 +29,9 @@ My research interests center on the intersection of optimization, generative mod
 <span class='anchor' id='news'></span>
 # 🔥 News
 
+- *Sep 2025*: Our paper [Mathematical Reasoning Planning for Language Models] is accepted as a Spotlight to NeuRIPS 2025!
+- *Aug 2025*: Our paper [Distributional Surgery for Language Model Activations](https://arxiv.org/pdf/2501.15758) is accepted to EMNLP 2025!
+- *May 2025*: Our paper [Structured Pruning for Diverse Best-ofN Reasoning Optimization](https://www.arxiv.org/abs/2506.03978) is accepted to ACL 2025!
 - *Jan 2025*: Two papers about intervention for LMs [Probe-Free Low-Rank Activation Intervention](https://arxiv.org/abs/2502.04043), [Task-driven Layerwise Additive Activation Intervention](https://arxiv.org/abs/2502.06115) are accepted to NAACL 2024!
 - *May 2024*: Our paper [Generative Conditional Distributions by Neural (Entropic) Optimal Transport](https://arxiv.org/pdf/2406.02317) is accepted to ICML 2024!
 - *March 2024*: I am fortunate to be granted ICLR 2024 Travel Grant (~$2,200)!
