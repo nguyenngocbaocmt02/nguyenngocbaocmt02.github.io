@@ -34,7 +34,7 @@ My research interests center on the intersection of optimization, generative mod
 - *May 2025*: Our paper [Structured Pruning for Diverse Best-ofN Reasoning Optimization](https://www.arxiv.org/abs/2506.03978) is accepted to ACL 2025!
 - *Jan 2025*: Two papers about intervention for LMs [Probe-Free Low-Rank Activation Intervention](https://arxiv.org/abs/2502.04043), [Task-driven Layerwise Additive Activation Intervention](https://arxiv.org/abs/2502.06115) are accepted to NAACL 2024!
 - *May 2024*: Our paper [Generative Conditional Distributions by Neural (Entropic) Optimal Transport](https://arxiv.org/pdf/2406.02317) is accepted to ICML 2024!
-- *March 2024*: I am fortunate to be granted ICLR 2024 Travel Grant (~$2,200)!
+- *March 2024*: I am fortunate to be granted the ICLR 2024 Travel Grant (~$2,200)!
 - *January 2024*: Our paper [Bellman Optimal Step-size Straightening of Flow-Matching Models](https://arxiv.org/abs/2312.16414) is accepted to ICLR 2024!
 - *June 2023*: Our paper [Efficient Failure Pattern Identification of Predictive Algorithms](https://arxiv.org/abs/2306.00760) is accepted to UAI 2023!
 
