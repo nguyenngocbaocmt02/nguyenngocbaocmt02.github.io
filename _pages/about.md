@@ -29,7 +29,8 @@ My research interests center on the intersection of optimization, generative mod
 <span class='anchor' id='news'></span>
 # 🔥 News
 
-- *Sep 2025*: Our paper [Mathematical Reasoning Planning for Language Models] is accepted as a Spotlight to NeuRIPS 2025!
+- *Jan 2026*: Our paper [Adaptive Rollout Allocation for Online Reinforcement Learning with Verifiable Rewards](https://www.arxiv.org/abs/2602.01601) is accepted to ICLR 2026.
+- *Sep 2025*: Our paper [Reasoning Planning for Language Models](https://arxiv.org/abs/2511.00521) is accepted as a Spotlight to NeuRIPS 2025!
 - *Aug 2025*: Our paper [Distributional Surgery for Language Model Activations](https://arxiv.org/pdf/2501.15758) is accepted to EMNLP 2025!
 - *May 2025*: Our paper [Structured Pruning for Diverse Best-ofN Reasoning Optimization](https://www.arxiv.org/abs/2506.03978) is accepted to ACL 2025!
 - *Jan 2025*: Two papers about intervention for LMs [Probe-Free Low-Rank Activation Intervention](https://arxiv.org/abs/2502.04043), [Task-driven Layerwise Additive Activation Intervention](https://arxiv.org/abs/2502.06115) are accepted to NAACL 2024!
@@ -148,6 +149,14 @@ The Optimization Competition at Genetic and Evolutionary Computation Conference 
 - Nguyen Thanh Long, Tran Thi Huong, **Nguyen Ngoc Bao**, Huynh Thi Thanh Binh, Phi Le Nguyen, and Kien Nguyen. [Q-learning-based distributed multi-charging algorithm for large-scale WRSNs](https://doi.org/10.1587/nolta.14.18), *Nonlinear Theory and Its Applications Journal, IEICE, 2023*. [[Paper]](https://www.researchgate.net/publication/366775648_Q-learning-based_distributed_multi-charging_algorithm_for_large-scale_WRSNs)
 
 ## Conference Publications
+- Hieu Trung Nguyen, **Bao Nguyen** (equal contribution), Wenao Ma, Yuzhi Zhao, Ruifeng She, Viet Anh Nguyen. Adaptive Rollout Allocation for Online Reinforcement Learning with Verifiable Rewards, ICLR, 2026.
+
+- **Bao Nguyen**, Hieu Trung Nguyen, Ruifeng She, Xiaojin Fu, Viet Anh Nguyen. Reasoning Planning for Language Models, NeurIPS, 2025.
+
+- **Bao Nguyen**, Binh Nguyen, Duy Nguyen, Viet Anh Nguyen. Distributional Surgery for Language Model Activations, EMNLP, 2025.
+
+- Hieu Trung Nguyen, **Bao Nguyen**, Viet Anh Nguyen. Structured Pruning for Diverse Best-of-N Reasoning Optimization, ACL, 2025.
+
 - Chonghe Jiang, **Bao Nguyen**, Anthony Man-Cho So, Viet Anh Nguyen. [Probe-Free Low-Rank Activation Intervention](https://arxiv.org/abs/2502.04043), *NAACL, 2025*.
 
 - Hieu Nguyen, **Bao Nguyen**, Binh Nguyen, , Viet Anh Nguyen. , [Task-driven Layerwise Additive Activation Intervention](https://arxiv.org/abs/2502.06115), *NAACL, 2025*.
